@@ -1,0 +1,301 @@
+ID Cliente;Mes;Tipo Cliente;Ubicacion;Frecuencia Compra;Volumen Harina (kg);Volumen Huevos;Ingreso Harina ($);Ingreso Huevos ($);Costo Harina ($);Costo Huevos ($);Metodo de Pago
+1;Marzo;Tienda Pequeña;Corral;Semanal;25;180;21000;45000;18500;40000;Efectivo
+2;Marzo;Minimarket;Niebla;Mensual;100;720;84000;180000;18500;40000;Tarjeta
+3;Marzo;Panaderia;Valdivia;Quincenal;100;0;84000;0;18500;0;Tarjeta
+4;Marzo;Minimarket;Corral;Mensual;100;720;84000;182880;18500;40000;Efectivo
+5;Marzo;Minimarket;Niebla;Quincenal;75;0;63000;0;18500;0;Tarjeta
+6;Marzo;Tienda Pequeña;Las animas;Mensual;50;720;42000;180000;18500;40000;Efectivo
+7;Marzo;Minimarket;Valdivia;Semanal;50;0;42000;0;18500;0;Efectivo
+8;Marzo;Restaurante;Corral;Quincenal;50;360;42000;90000;18500;40000;Tarjeta
+9;Marzo;Tienda Pequeña;Las animas;Semanal;25;180;21000;45000;18500;40000;Tarjeta
+10;Marzo;Minimarket;Niebla;Mensual;125;0;105000;0;18500;0;Efectivo
+11;Marzo;Panaderia;Los molinos;Semanal;100;0;84000;0;18500;0;Tarjeta
+12;Marzo;Consumidor ;Valdivia;Mensual;25;360;21000;90000;18500;40000;Efectivo
+13;Marzo;Consumidor ;Las animas;Semanal;0;180;0;45000;0;40000;Tarjeta
+14;Marzo;Tienda Pequeña;Los molinos;Mensual;50;540;42000;135000;18500;40000;Efectivo
+15;Marzo;Restaurante;Corral;Mensual;100;540;84000;135000;18500;40000;Credito
+16;Marzo;Restaurante;Los molinos;Mensual;0;720;0;180000;0;40000;Tarjeta
+17;Marzo;Restaurante;Corral;Quincenal;0;720;0;180000;0;40000;Credito
+18;Marzo;Consumidor ;Niebla;Quincenal;25;180;21000;45000;18500;40000;Tarjeta
+19;Marzo;Tienda Pequeña;Niebla;Semanal;25;360;21000;90000;18500;40000;Tarjeta
+20;Marzo;Minimarket;Las animas;Quincenal;0;540;0;135000;0;40000;Efectivo
+21;Marzo;Minimarket;Niebla;Semanal;25;360;21000;90000;18500;40000;Tarjeta
+22;Marzo;Minimarket;Valdivia;Quincenal;75;360;63000;90000;18500;40000;Credito
+23;Marzo;Tienda Pequeña;Las animas;Quincenal;25;360;21000;90000;18500;40000;Tarjeta
+24;Marzo;Minimarket;Valdivia;Semanal;0;360;0;90000;0;40000;Tarjeta
+25;Marzo;Tienda Pequeña;Valdivia;Quincenal;50;180;42000;45000;18500;40000;Tarjeta
+26;Marzo;Consumidor ;Las animas;Mensual;25;360;21000;90000;18500;40000;Efectivo
+27;Marzo;Restaurante;Valdivia;Semanal;25;540;21000;135000;18500;40000;Efectivo
+28;Marzo;Tienda Pequeña;Los molinos;Quincenal;25;360;21000;90000;18500;40000;Tarjeta
+29;Marzo;Restaurante;Valdivia;Semanal;25;540;21000;135000;18500;40000;Tarjeta
+30;Marzo;Consumidor ;Valdivia;Semanal;0;180;0;40000;0;40000;Efectivo
+31;Marzo;Panaderia;Los molinos;Mensual;125;0;105000;0;18500;0;Tarjeta
+32;Marzo;Tienda Pequeña;Los molinos;Mensual;50;720;42000;180000;18500;40000;Efectivo
+33;Marzo;Restaurante;Las animas;Semanal;50;0;42000;0;18500;0;Credito
+34;Marzo;Restaurante;Corral;Quincenal;0;720;0;180000;0;40000;Credito
+35;Marzo;Minimarket;Corral;Mensual;75;540;63000;135000;18500;40000;Tarjeta
+36;Marzo;Consumidor ;Corral;Mensual;25;180;21000;45000;18500;40000;Tarjeta
+37;Marzo;Tienda Pequeña;Corral;Semanal;50;180;42000;45000;18500;40000;Tarjeta
+38;Marzo;Consumidor ;Las animas;Semanal;25;180;21000;45000;18500;40000;Efectivo
+39;Marzo;Consumidor ;Las animas;Quincenal;0;180;0;45000;0;40000;Efectivo
+40;Marzo;Tienda Pequeña;Los molinos;Mensual;50;0;42000;0;18500;0;Efectivo
+41;Marzo;Consumidor ;Valdivia;Mensual;25;0;21000;0;18500;0;Efectivo
+42;Marzo;Tienda Pequeña;Corral;Semanal;0;180;0;45000;0;40000;Tarjeta
+43;Marzo;Tienda Pequeña;Las animas;Quincenal;25;360;21000;90000;18500;40000;Tarjeta
+44;Marzo;Minimarket;Valdivia;Semanal;50;180;42000;45000;18500;40000;Tarjeta
+45;Marzo;Panaderia;Las animas;Quincenal;100;0;84000;0;18500;0;Tarjeta
+46;Marzo;Restaurante;Valdivia;Quincenal;25;720;21000;180000;18500;40000;Tarjeta
+47;Marzo;Minimarket;Las animas;Semanal;0;360;0;90000;0;40000;Efectivo
+48;Marzo;Panaderia;Corral;Quincenal;100;0;84000;0;18500;0;Credito
+49;Marzo;Panaderia;Valdivia;Quincenal;100;540;84000;135000;18500;40000;Credito
+50;Marzo;Panaderia;Corral;Mensual;75;540;63000;135000;18500;40000;Tarjeta
+51;Marzo;Minimarket;Niebla;Mensual;100;0;840000;0;18500;0;Credito
+52;Marzo;Minimarket;Corral;Quincenal;75;360;63000;135000;18500;40000;Tarjeta
+53;Marzo;Consumidor ;Corral;Quincenal;75;360;63000;135000;18500;40000;Efectivo
+54;Marzo;Minimarket;Niebla;Semanal;0;360;0;90000;0;40000;Credito
+55;Marzo;Tienda Pequeña;Las animas;Mensual;50;180;42000;45000;18500;40000;Tarjeta
+56;Marzo;Minimarket;Los molinos;Mensual;0;720;0;180000;0;40000;Credito
+57;Marzo;Consumidor ;Corral;Mensual;25;360;21000;90000;18500;40000;Efectivo
+58;Marzo;Panaderia;Valdivia;Quincenal;100;0;84000;0;18500;0;Credito
+59;Marzo;Consumidor ;Corral;Semanal;25;360;21000;90000;18500;40000;Efectivo
+60;Marzo;Minimarket;Niebla;Mensual;125;720;105000;180000;18500;40000;Tarjeta
+61;Marzo;Panaderia;Valdivia;Quincenal;100;540;84000;135000;18500;40000;Tarjeta
+62;Marzo;Tienda Pequeña;Las animas;Semanal;25;360;21000;90000;18500;40000;Efectivo
+63;Marzo;Consumidor ;Niebla;Semanal;0;180;0;45000;0;40000;Tarjeta
+64;Marzo;Tienda Pequeña;Las animas;Mensual;50;720;42000;182880;18500;40000;Tarjeta
+65;Marzo;Tienda Pequeña;Valdivia;Mensual;25;540;21000;135000;18500;40000;Tarjeta
+66;Marzo;Consumidor ;Valdivia;Semanal;0;180;0;45000;10500;40000;Efectivo
+67;Marzo;Minimarket;Las animas;Semanal;25;180;21000;45000;18500;40000;Credito
+68;Marzo;Restaurante;Corral;Mensual;100;720;84000;182880;18500;40000;Tarjeta
+69;Marzo;Panaderia;Niebla;Semanal;100;0;84000;0;18500;0;Credito
+70;Marzo;Panaderia;Corral;Semanal;25;180;21000;45000;18500;40000;Credito
+71;Marzo;Tienda Pequeña;Corral;Quincenal;25;30;21000;8000;18500;0;Tarjeta
+72;Marzo;Minimarket;Las animas;Quincenal;25;540;21000;135000;18500;40000;Tarjeta
+73;Marzo;Consumidor ;Valdivia;Quincenal;25;360;21000;90000;0;40000;Efectivo
+74;Marzo;Tienda Pequeña;Valdivia;Semanal;25;540;21000;135000;18500;0;Credito
+75;Marzo;Minimarket;Valdivia;Mensual;100;540;84000;135000;18500;40000;Efectivo
+76;Marzo;Consumidor ;Niebla;Mensual;25;180;21000;45000;18500;40000;Efectivo
+77;Marzo;Minimarket;Niebla;Quincenal;50;0;42000;0;18500;0;Credito
+78;Marzo;Tienda Pequeña;Valdivia;Quincenal;0;180;0;45000;0;40000;Efectivo
+79;Marzo;Panaderia;Corral;Quincenal;25;30;21000;8000;18500;0;Tarjeta
+80;Marzo;Minimarket;Los molinos;Semanal;25;360;21000;90000;18500;40000;Credito
+81;Marzo;Tienda Pequeña;Niebla;Quincenal;0;540;0;135000;0;40000;Efectivo
+82;Marzo;Panaderia;Corral;Quincenal;25;180;21000;45000;18500;40000;Credito
+83;Marzo;Tienda Pequeña;Las animas;Quincenal;0;540;0;135000;0;40000;Efectivo
+84;Marzo;Consumidor ;Corral;Semanal;25;180;21000;45000;18500;40000;Efectivo
+85;Marzo;Minimarket;Niebla;Mensual;125;540;105000;135000;18500;40000;Credito
+86;Marzo;Minimarket;Las animas;Quincenal;75;360;63000;90000;18500;40000;Credito
+87;Marzo;Panaderia;Corral;Semanal;25;180;21000;45000;18500;40000;Tarjeta
+88;Marzo;Consumidor ;Valdivia;Quincenal;25;0;21000;0;18500;0;Efectivo
+89;Marzo;Consumidor ;Corral;Quincenal;25;180;21000;45000;10500;40000;Efectivo
+90;Marzo;Tienda Pequeña;Los molinos;Mensual;75;720;63000;180000;18500;40000;Tarjeta
+91;Marzo;Restaurante;Corral;Quincenal;0;720;0;180000;0;40000;Credito
+92;Marzo;Minimarket;Los molinos;Semanal;50;360;42000;90000;18500;40000;Efectivo
+93;Marzo;Consumidor ;Las animas;Mensual;25;360;21000;90000;18500;0;Efectivo
+94;Marzo;Tienda Pequeña;Los molinos;Semanal;0;360;0;90000;0;40000;Tarjeta
+95;Marzo;Consumidor ;Corral;Semanal;0;180;0;45000;0;40000;Efectivo
+96;Marzo;Tienda Pequeña;Niebla;Semanal;25;360;21000;90000;18500;40000;Efectivo
+97;Marzo;Restaurante;Las animas;Quincenal;25;180;21000;45000;18500;40000;Credito
+98;Marzo;Minimarket;Valdivia;Mensual;0;720;0;182880;0;40000;Credito
+99;Marzo;Panaderia;Valdivia;Semanal;0;720;0;180000;0;40000;Tarjeta
+100;Marzo;Tienda Pequeña;Corral;Semanal;25;0;21000;0;18500;0;Tarjeta
+101;Marzo;Consumidor ;Corral;Mensual;25;360;21000;90000;18500;40000;Tarjeta
+102;Marzo;Panaderia;Niebla;Mensual;0;720;0;180000;0;40000;Credito
+103;Marzo;Restaurante;Las animas;Semanal;75;0;63000;0;18500;0;Tarjeta
+104;Marzo;Tienda Pequeña;Los molinos;Semanal;25;360;21000;90000;18500;40000;Tarjeta
+105;Marzo;Panaderia;Las animas;Semanal;0;360;0;90000;0;40000;Credito
+106;Marzo;Minimarket;Las animas;Semanal;25;180;21000;45000;18500;40000;Tarjeta
+107;Marzo;Tienda Pequeña;Las animas;Quincenal;25;180;21000;45000;18500;40000;Efectivo
+108;Marzo;Restaurante;Valdivia;Semanal;0;720;0;180000;0;40000;Tarjeta
+109;Marzo;Restaurante;Los molinos;Quincenal;0;720;0;180000;0;40000;Credito
+110;Marzo;Panaderia;Los molinos;Quincenal;125;720;105000;180000;18500;40000;Credito
+111;Marzo;Minimarket;Las animas;Mensual;100;0;84000;0;18500;0;Tarjeta
+112;Marzo;Minimarket;Los molinos;Semanal;25;360;21000;90000;18500;40000;Credito
+113;Marzo;Minimarket;Valdivia;Mensual;75;540;63000;135000;18500;40000;Tarjeta
+114;Marzo;Tienda Pequeña;Valdivia;Mensual;25;360;21000;90000;18500;40000;Credito
+115;Marzo;Consumidor ;Niebla;Mensual;25;180;21000;45000;18500;40000;Tarjeta
+116;Marzo;Tienda Pequeña;Valdivia;Quincenal;25;0;21000;0;18500;0;Credito
+117;Marzo;Restaurante;Valdivia;Semanal;25;540;21000;135000;18500;40000;Efectivo
+118;Marzo;Panaderia;Corral;Quincenal;100;720;84000;180000;18500;40000;Tarjeta
+119;Marzo;Consumidor ;Valdivia;Semanal;0;180;0;45000;0;40000;Efectivo
+120;Marzo;Consumidor ;Las animas;Mensual;25;360;21000;90000;18500;40000;Efectivo
+121;Marzo;Minimarket;Las animas;Mensual;100;720;84000;180000;18500;40000;Tarjeta
+122;Marzo;Tienda Pequeña;Corral;Mensual;100;540;84000;135000;18500;40000;Efectivo
+123;Marzo;Minimarket;Los molinos;Mensual;0;720;0;180000;0;40000;Credito
+124;Marzo;Restaurante;Niebla;Mensual;100;720;84000;180000;18500;40000;Efectivo
+125;Marzo;Tienda Pequeña;Los molinos;Semanal;25;180;21000;45000;18500;40000;Credito
+126;Marzo;Tienda Pequeña;Corral;Semanal;25;0;21000;0;18500;0;Efectivo
+127;Marzo;Tienda Pequeña;Valdivia;Mensual;50;540;42000;135000;18500;40000;Tarjeta
+128;Marzo;Minimarket;Niebla;Mensual;75;540;63000;135000;18500;40000;Credito
+129;Marzo;Minimarket;Los molinos;Quincenal;75;540;63000;135000;18500;40000;Efectivo
+130;Marzo;Panaderia;Niebla;Semanal;100;0;84000;0;18500;0;Credito
+131;Marzo;Restaurante;Niebla;Mensual;0;900;0;225000;0;40000;Credito
+132;Marzo;Consumidor ;Niebla;Quincenal;0;360;0;90000;0;0;Efectivo
+133;Marzo;Tienda Pequeña;Valdivia;Semanal;0;180;0;45000;0;40000;Credito
+134;Marzo;Panaderia;Valdivia;Mensual;0;720;0;180000;0;40000;Tarjeta
+135;Marzo;Consumidor ;Niebla;Quincenal;25;180;21000;45000;18500;40000;Tarjeta
+136;Marzo;Restaurante;Valdivia;Mensual;25;720;21000;180000;18500;40000;Tarjeta
+137;Marzo;Consumidor ;Niebla;Quincenal;25;180;21000;45000;18500;40000;Tarjeta
+138;Marzo;Tienda Pequeña;Los molinos;Semanal;0;180;0;45000;0;40000;Efectivo
+139;Marzo;Panaderia;Corral;Mensual;100;540;84000;135000;18500;40000;Tarjeta
+140;Marzo;Restaurante;Niebla;Mensual;75;0;63000;0;18500;0;Tarjeta
+141;Marzo;Tienda Pequeña;Las animas;Semanal;0;180;0;45000;0;40000;Credito
+142;Marzo;Tienda Pequeña;Las animas;Mensual;0;720;0;180000;0;40000;Credito
+143;Marzo;Minimarket;Niebla;Mensual;125;0;105000;0;18500;0;Tarjeta
+144;Marzo;Consumidor ;Corral;Mensual;25;360;21000;90000;18500;40000;Efectivo
+145;Marzo;Minimarket;Corral;Semanal;25;360;21000;90000;18500;40000;Efectivo
+146;Marzo;Minimarket;Niebla;Quincenal;75;360;63000;90000;18500;40000;Efectivo
+147;Marzo;Tienda Pequeña;Corral;Quincenal;25;180;21000;45000;18500;40000;Efectivo
+148;Marzo;Tienda Pequeña;Los molinos;Mensual;25;720;21000;135000;18500;40000;Credito
+149;Marzo;Consumidor ;Las animas;Mensual;25;180;21000;45000;18500;40000;Efectivo
+150;Marzo;Restaurante;Las animas;Quincenal;0;540;0;135000;0;40000;Efectivo
+151;Abril;Consumidor ;Las animas;Semanal;0;180;0;45000;0;40000;Efectivo
+152;Abril;Tienda Pequeña;Los molinos;Quincenal;25;360;21000;90000;18500;40000;Tarjeta
+153;Abril;Restaurante;Niebla;Mensual;75;720;63000;180000;18500;40000;Efectivo
+154;Abril;Panaderia;Valdivia;Semanal;75;0;63000;0;18500;0;Credito
+155;Abril;Minimarket;Corral;Quincenal;75;540;63000;135000;18500;40000;Tarjeta
+156;Abril;Consumidor ;Las animas;Mensual;25;180;21000;45000;18500;40000;Efectivo
+157;Abril;Tienda Pequeña;Los molinos;Semanal;0;360;0;90000;0;40000;Credito
+158;Abril;Restaurante;Niebla;Quincenal;25;540;21000;135000;18500;40000;Tarjeta
+159;Abril;Panaderia;Valdivia;Mensual;75;720;63000;180000;18500;40000;Credito
+160;Abril;Minimarket;Niebla;Semanal;50;360;42000;90000;18500;40000;Credito
+161;Abril;Consumidor ;Valdivia;Quincenal;25;360;21000;90000;0;;Efectivo
+162;Abril;Tienda Pequeña;Los molinos;Mensual;50;0;42000;0;18500;0;Efectivo
+163;Abril;Restaurante;Niebla;Semanal;0;540;0;135000;0;40000;Credito
+164;Abril;Panaderia;Corral;Quincenal;75;360;63000;135000;18500;40000;Tarjeta
+165;Abril;Minimarket;Valdivia;Mensual;100;540;84000;135000;18500;40000;Efectivo
+166;Abril;Consumidor ;Niebla;Semanal;0;180;0;45000;18500;40000;Efectivo
+167;Abril;Tienda Pequeña;Los molinos;Quincenal;25;360;21000;90000;18500;40000;Tarjeta
+168;Abril;Restaurante;Niebla;Mensual;100;720;84000;180000;18500;40000;Efectivo
+169;Abril;Panaderia;Valdivia;Semanal;75;0;63000;0;18500;0;Credito
+170;Abril;Minimarket;Las animas;Quincenal;75;360;63000;90000;18500;40000;Tarjeta
+171;Abril;Consumidor ;Valdivia;Mensual;25;360;21000;90000;0;40000;Efectivo
+172;Abril;Tienda Pequeña;Los molinos;Semanal;25;180;21000;45000;18500;40000;Credito
+173;Abril;Restaurante;Niebla;Quincenal;0;720;0;180000;0;40000;Tarjeta
+174;Abril;Panaderia;Las animas;Mensual;200;720;168000;180000;18500;40000;Credito
+175;Abril;Minimarket;Las animas;Semanal;75;360;63000;90000;18500;40000;Credito
+176;Abril;Consumidor ;Valdivia;Quincenal;25;180;21000;45000;18500;40000;Efectivo
+177;Abril;Tienda Pequeña;Los molinos;Mensual;50;540;42000;135000;18500;40000;Efectivo
+178;Abril;Restaurante;Niebla;Semanal;25;540;21000;135000;18500;40000;Credito
+179;Abril;Panaderia;Corral;Quincenal;75;360;63000;135000;18500;40000;Tarjeta
+180;Abril;Minimarket;Corral;Mensual;100;540;84000;135000;18500;40000;Efectivo
+181;Abril;Consumidor ;Corral;Semanal;0;360;0;90000;0;40000;Efectivo
+182;Abril;Tienda Pequeña;Los molinos;Quincenal;50;0;42000;0;18500;0;Tarjeta
+183;Abril;Restaurante;Niebla;Mensual;0;900;0;225000;0;40000;Efectivo
+184;Abril;Panaderia;Valdivia;Semanal;100;540;84000;135000;18500;40000;Credito
+185;Abril;Minimarket;Los molinos;Quincenal;50;0;42000;0;18500;0;Tarjeta
+186;Abril;Consumidor ;Valdivia;Mensual;25;360;21000;90000;0;40000;Efectivo
+187;Abril;Tienda Pequeña;Los molinos;Semanal;50;0;42000;0;18500;0;Credito
+188;Abril;Restaurante;Niebla;Quincenal;75;720;63000;180000;18500;40000;Tarjeta
+189;Abril;Panaderia;Niebla;Mensual;400;0;168000;0;18500;0;Tarjeta
+190;Abril;Minimarket;Niebla;Semanal;50;0;42000;0;18500;0;Credito
+191;Abril;Consumidor ;Las animas;Quincenal;0;360;0;90000;;40000;Tarjeta
+192;Abril;Tienda Pequeña;Los molinos;Mensual;50;540;42000;135000;18500;40000;Efectivo
+193;Abril;Restaurante;Niebla;Semanal;25;540;21000;135000;18500;40000;Credito
+194;Abril;Panaderia;Valdivia;Quincenal;0;720;0;180000;0;40000;Tarjeta
+195;Abril;Minimarket;Corral;Mensual;125;720;105000;182880;18500;40000;Efectivo
+196;Abril;Consumidor ;Valdivia;Semanal;0;180;0;45000;0;40000;Efectivo
+197;Abril;Tienda Pequeña;Los molinos;Quincenal;0;720;0;180000;0;40000;Tarjeta
+198;Abril;Restaurante;Niebla;Mensual;0;900;0;225000;0;40000;Efectivo
+199;Abril;Panaderia;Corral;Semanal;50;180;42000;45000;18500;40000;Credito
+200;Abril;Minimarket;Corral;Quincenal;75;0;63000;0;18500;0;Tarjeta
+201;Abril;Consumidor ;Niebla;Mensual;25;360;21000;90000;18500;40000;Efectivo
+202;Abril;Tienda Pequeña;Los molinos;Semanal;25;180;21000;45000;18500;40000;Credito
+203;Abril;Restaurante;Niebla;Quincenal;25;540;21000;135000;18500;40000;Tarjeta
+204;Abril;Panaderia;Valdivia;Mensual;100;720;84000;180000;18500;40000;Tarjeta
+205;Abril;Minimarket;Valdivia;Semanal;50;0;42000;0;18500;0;Credito
+206;Abril;Consumidor ;Las animas;Quincenal;0;360;0;90000;0;40000;Tarjeta
+207;Abril;Tienda Pequeña;Los molinos;Mensual;50;0;42000;0;18500;0;Efectivo
+208;Abril;Restaurante;Niebla;Semanal;0;540;0;135000;0;40000;Credito
+209;Abril;Panaderia;Corral;Quincenal;100;0;84000;0;18500;0;Tarjeta
+210;Abril;Minimarket;Valdivia;Mensual;0;540;0;135000;0;40000;Efectivo
+211;Abril;Consumidor ;Los molinos;Semanal;25;180;21000;45000;18500;40000;Efectivo
+212;Abril;Tienda Pequeña;Los molinos;Quincenal;25;360;21000;90000;18500;40000;Tarjeta
+213;Abril;Restaurante;Niebla;Mensual;0;720;0;180000;0;40000;Efectivo
+214;Abril;Panaderia;Valdivia;Semanal;100;0;84000;0;18500;0;Credito
+215;Abril;Minimarket;Las animas;Quincenal;75;360;63000;90000;18500;40000;Tarjeta
+216;Abril;Consumidor ;Niebla;Mensual;25;360;21000;90000;18500;40000;Efectivo
+217;Abril;Tienda Pequeña;Los molinos;Semanal;25;180;21000;45000;18500;40000;Credito
+218;Abril;Restaurante;Niebla;Quincenal;75;720;63000;180000;18500;40000;Tarjeta
+219;Abril;Panaderia;Niebla;Mensual;400;0;168000;0;18500;0;Tarjeta
+220;Abril;Minimarket;Niebla;Semanal;25;360;21000;90000;18500;40000;Credito
+221;Abril;Consumidor ;Los molinos;Quincenal;25;360;21000;90000;18500;40000;Tarjeta
+222;Abril;Tienda Pequeña;Los molinos;Mensual;25;360;21000;90000;18500;40000;Efectivo
+223;Abril;Restaurante;Niebla;Semanal;25;540;21000;135000;18500;40000;Credito
+224;Abril;Panaderia;Valdivia;Quincenal;100;540;84000;135000;18500;40000;Tarjeta
+225;Abril;Minimarket;Valdivia;Mensual;75;720;63000;182880;18500;40000;Efectivo
+226;Abril;Consumidor ;Las animas;Semanal;25;180;21000;45000;18500;40000;Efectivo
+227;Abril;Tienda Pequeña;Los molinos;Quincenal;50;0;42000;0;18500;0;Tarjeta
+228;Abril;Restaurante;Niebla;Mensual;100;720;84000;180000;18500;40000;Efectivo
+229;Abril;Panaderia;Corral;Semanal;25;180;21000;45000;18500;40000;Credito
+230;Abril;Minimarket;Valdivia;Quincenal;75;540;63000;135000;18500;40000;Tarjeta
+231;Abril;Consumidor ;Niebla;Mensual;0;360;0;90000;0;40000;Tarjeta
+232;Abril;Tienda Pequeña;Los molinos;Semanal;25;180;21000;45000;18500;40000;Credito
+233;Abril;Restaurante;Niebla;Quincenal;25;540;21000;135000;18500;40000;Tarjeta
+234;Abril;Panaderia;Valdivia;Mensual;100;540;84000;135000;18500;40000;Tarjeta
+235;Abril;Minimarket;Valdivia;Semanal;25;360;21000;90000;18500;40000;Credito
+236;Abril;Consumidor ;Corral;Quincenal;25;0;21000;0;18500;0;Tarjeta
+237;Abril;Tienda Pequeña;Los molinos;Mensual;25;360;21000;90000;18500;40000;Efectivo
+238;Abril;Restaurante;Niebla;Semanal;0;540;0;135000;0;40000;Credito
+239;Abril;Panaderia;Las animas;Quincenal;100;0;84000;0;18500;0;Tarjeta
+240;Abril;Minimarket;Los molinos;Mensual;100;540;84000;135000;18500;40000;Efectivo
+241;Abril;Consumidor ;Valdivia;Semanal;0;180;0;45000;0;40000;Efectivo
+242;Abril;Tienda Pequeña;Los molinos;Quincenal;25;360;21000;90000;18500;40000;Tarjeta
+243;Abril;Restaurante;Niebla;Mensual;0;900;0;225000;0;40000;Efectivo
+244;Abril;Panaderia;Valdivia;Semanal;100;0;84000;0;18500;0;Credito
+245;Abril;Minimarket;Corral;Quincenal;0;540;0;135000;0;40000;Tarjeta
+246;Abril;Consumidor ;Los molinos;Mensual;25;0;21000;0;18500;0;Tarjeta
+247;Abril;Tienda Pequeña;Los molinos;Semanal;25;180;21000;45000;18500;40000;Credito
+248;Abril;Restaurante;Niebla;Quincenal;0;720;0;180000;0;40000;Tarjeta
+249;Abril;Panaderia;Valdivia;Mensual;0;720;0;180000;0;40000;Tarjeta
+250;Abril;Minimarket;Niebla;Semanal;0;360;0;90000;0;40000;Credito
+251;Abril;Consumidor ;Corral;Quincenal;0;360;0;90000;0;40000;Tarjeta
+252;Abril;Tienda Pequeña;Los molinos;Mensual;25;360;21000;90000;18500;40000;Efectivo
+253;Abril;Restaurante;Niebla;Semanal;0;540;0;135000;0;40000;Credito
+254;Abril;Panaderia;Corral;Quincenal;100;0;84000;0;18500;0;Tarjeta
+255;Abril;Minimarket;Valdivia;Mensual;75;540;63000;135000;18500;40000;Efectivo
+256;Abril;Consumidor ;Valdivia;Semanal;0;180;0;45000;0;40000;Efectivo
+257;Abril;Tienda Pequeña;Los molinos;Quincenal;25;360;21000;90000;18500;40000;Tarjeta
+258;Abril;Restaurante;Niebla;Mensual;100;720;84000;180000;18500;40000;Efectivo
+259;Abril;Panaderia;Niebla;Semanal;100;720;84000;180000;18500;0;Credito
+260;Abril;Minimarket;Corral;Quincenal;50;360;42000;90000;18500;40000;Tarjeta
+261;Abril;Consumidor ;Los molinos;Mensual;25;360;21000;90000;18500;40000;Efectivo
+262;Abril;Tienda Pequeña;Los molinos;Semanal;25;180;21000;45000;18500;40000;Credito
+263;Abril;Restaurante;Niebla;Quincenal;75;720;63000;180000;18500;40000;Tarjeta
+264;Abril;Panaderia;Valdivia;Mensual;100;0;84000;0;18500;0;Tarjeta
+265;Abril;Minimarket;Valdivia;Semanal;50;0;42000;0;18500;0;Credito
+266;Abril;Consumidor ;Valdivia;Quincenal;25;360;21000;90000;18500;40000;Efectivo
+267;Abril;Tienda Pequeña;Los molinos;Mensual;25;360;21000;90000;18500;40000;Efectivo
+268;Abril;Restaurante;Niebla;Semanal;25;540;21000;135000;18500;40000;Credito
+269;Abril;Panaderia;Las animas;Quincenal;100;0;84000;0;18500;0;Tarjeta
+270;Abril;Minimarket;Corral;Mensual;0;720;0;182880;0;40000;Efectivo
+271;Abril;Consumidor ;Niebla;Semanal;25;180;21000;45000;18500;40000;Efectivo
+272;Abril;Tienda Pequeña;Los molinos;Quincenal;25;360;21000;90000;18500;40000;Tarjeta
+273;Abril;Restaurante;Niebla;Mensual;0;900;0;225000;0;40000;Efectivo
+274;Abril;Panaderia;Valdivia;Semanal;100;540;84000;135000;18500;40000;Credito
+275;Abril;Minimarket;Los molinos;Quincenal;50;540;42000;135000;18500;40000;Tarjeta
+276;Abril;Consumidor ;Corral;Mensual;25;0;21000;0;18500;0;Tarjeta
+277;Abril;Tienda Pequeña;Los molinos;Semanal;25;180;21000;45000;18500;40000;Credito
+278;Abril;Restaurante;Niebla;Quincenal;0;720;0;180000;0;40000;Tarjeta
+279;Abril;Panaderia;Valdivia;Mensual;0;720;0;180000;0;40000;Tarjeta
+280;Abril;Minimarket;Corral;Semanal;0;180;0;45000;0;40000;Credito
+281;Abril;Consumidor ;Valdivia;Quincenal;25;360;21000;90000;18500;40000;Efectivo
+282;Abril;Tienda Pequeña;Los molinos;Mensual;50;0;42000;0;18500;0;Efectivo
+283;Abril;Restaurante;Niebla;Semanal;0;540;0;135000;0;40000;Credito
+284;Abril;Panaderia;Valdivia;Quincenal;100;0;84000;0;18500;0;Tarjeta
+285;Abril;Minimarket;Niebla;Mensual;0;720;0;180000;0;40000;Efectivo
+286;Abril;Consumidor ;Niebla;Semanal;25;180;21000;45000;18500;40000;Efectivo
+287;Abril;Tienda Pequeña;Los molinos;Quincenal;25;360;21000;90000;18500;40000;Tarjeta
+288;Abril;Restaurante;Niebla;Mensual;100;720;84000;180000;18500;40000;Efectivo
+289;Abril;Panaderia;Niebla;Semanal;100;0;84000;0;18500;0;Credito
+290;Abril;Minimarket;Valdivia;Quincenal;50;540;42000;135000;18500;40000;Tarjeta
+291;Abril;Consumidor ;Corral;Mensual;25;180;21000;45000;18500;40000;Tarjeta
+292;Abril;Tienda Pequeña;Los molinos;Semanal;25;180;21000;45000;18500;40000;Credito
+293;Abril;Restaurante;Niebla;Quincenal;0;720;0;180000;0;40000;Tarjeta
+294;Abril;Panaderia;Corral;Mensual;100;720;84000;182880;18500;40000;Tarjeta
+295;Abril;Minimarket;Corral;Semanal;0;180;0;45000;0;40000;Credito
+296;Abril;Consumidor ;Las animas;Quincenal;0;360;0;90000;0;40000;Tarjeta
+297;Abril;Tienda Pequeña;Los molinos;Mensual;50;540;42000;135000;18500;40000;Efectivo
+298;Abril;Restaurante;Niebla;Semanal;25;540;21000;135000;18500;40000;Credito
+299;Abril;Panaderia;Valdivia;Quincenal;100;540;84000;135000;18500;40000;Tarjeta
+300;Abril;Minimarket;Niebla;Mensual;100;0;84000;0;18500;0;Efectivo
