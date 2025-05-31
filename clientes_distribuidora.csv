@@ -1,301 +1,301 @@
 ID Cliente,Tipo Cliente,Ubicación,Frecuencia Compra,Volumen Harina (kg),Volumen Huevos (docenas),Gasto Promedio ($),Método de Pago
-1,Minimarket,Las animas,Semanal,355,68,316356,Crédito
-2,Restaurante,Las animas,Quincenal,371,185,361035,Crédito
-3,Minimarket,Los molinos,Semanal,470,107,423369,Tarjeta
-4,Consumidor minorista,Corral,Semanal,5,4,5268,Crédito
-5,Panadería,Las animas,Mensual,200,129,202443,Tarjeta
-6,Restaurante,Valdivia,Semanal,97,154,122598,Efectivo
-7,Minimarket,Corral,Mensual,432,95,388245,Tarjeta
-8,Restaurante,Las animas,Semanal,326,41,284787,Crédito
-9,Tienda Pequeña,Las animas,Mensual,55,30,54210,Tarjeta
-10,Minimarket,Corral,Quincenal,342,71,306237,Tarjeta
-11,Consumidor minorista,Los molinos,Mensual,3,3,3321,Crédito
-12,Consumidor minorista,Niebla,Mensual,1,4,1908,Efectivo
-13,Minimarket,Niebla,Semanal,412,186,395742,Crédito
-14,Minimarket,Niebla,Semanal,259,52,231444,Crédito
-15,Tienda Pequeña,Valdivia,Semanal,13,39,21333,Tarjeta
-16,Tienda Pequeña,Corral,Quincenal,78,38,75666,Efectivo
-17,Tienda Pequeña,Los molinos,Mensual,51,48,55656,Crédito
-18,Restaurante,Corral,Mensual,415,174,395058,Efectivo
-19,Tienda Pequeña,Las animas,Semanal,22,43,29961,Crédito
-20,Panadería,Las animas,Mensual,69,22,63834,Tarjeta
-21,Tienda Pequeña,Niebla,Quincenal,92,8,79416,Crédito
-22,Tienda Pequeña,Niebla,Quincenal,34,6,30162,Tarjeta
-23,Panadería,Corral,Quincenal,241,144,240888,Tarjeta
-24,Minimarket,Corral,Semanal,483,109,434823,Efectivo
-25,Panadería,Niebla,Mensual,158,37,142599,Crédito
-26,Restaurante,Las animas,Quincenal,434,141,402207,Tarjeta
-27,Minimarket,Las animas,Mensual,248,41,219267,Tarjeta
-28,Consumidor minorista,Valdivia,Semanal,5,2,4734,Crédito
-29,Minimarket,Las animas,Semanal,94,56,93912,Tarjeta
-30,Panadería,Valdivia,Mensual,500,85,442695,Crédito
-31,Minimarket,Niebla,Mensual,292,83,267441,Crédito
-32,Panadería,Los molinos,Quincenal,187,95,182445,Crédito
-33,Minimarket,Las animas,Mensual,372,181,360807,Crédito
-34,Restaurante,Los molinos,Mensual,148,159,166773,Crédito
-35,Tienda Pequeña,Los molinos,Mensual,60,49,63483,Crédito
-36,Minimarket,Corral,Mensual,215,81,202227,Efectivo
-37,Restaurante,Niebla,Mensual,143,139,157233,Crédito
-38,Tienda Pequeña,Niebla,Quincenal,68,16,61392,Crédito
-39,Tienda Pequeña,Niebla,Semanal,51,47,55389,Efectivo
-40,Panadería,Valdivia,Quincenal,463,151,429237,Efectivo
-41,Restaurante,Los molinos,Quincenal,127,145,145395,Efectivo
-42,Tienda Pequeña,Corral,Quincenal,22,42,29694,Crédito
-43,Minimarket,Niebla,Semanal,465,129,425043,Efectivo
-44,Tienda Pequeña,Niebla,Quincenal,74,14,65898,Crédito
-45,Minimarket,Corral,Semanal,55,128,80376,Tarjeta
-46,Restaurante,Corral,Mensual,55,55,60885,Crédito
-47,Restaurante,Corral,Mensual,173,180,193380,Efectivo
-48,Restaurante,Corral,Semanal,306,131,292017,Crédito
-49,Tienda Pequeña,Los molinos,Mensual,63,18,57726,Tarjeta
-50,Tienda Pequeña,Niebla,Semanal,50,7,43869,Efectivo
-51,Consumidor minorista,Niebla,Mensual,4,2,3894,Crédito
-52,Panadería,Los molinos,Quincenal,248,173,254511,Efectivo
-53,Restaurante,Corral,Quincenal,117,147,137529,Crédito
-54,Panadería,Valdivia,Mensual,248,107,236889,Tarjeta
-55,Restaurante,Niebla,Quincenal,154,173,175551,Crédito
-56,Restaurante,Las animas,Mensual,246,161,249627,Tarjeta
-57,Minimarket,Niebla,Semanal,282,24,243288,Crédito
-58,Panadería,Corral,Quincenal,453,25,387195,Efectivo
-59,Panadería,Niebla,Mensual,188,66,175542,Tarjeta
-60,Restaurante,Los molinos,Semanal,141,70,137130,Tarjeta
-61,Minimarket,Las animas,Quincenal,101,114,115278,Tarjeta
-62,Consumidor minorista,Valdivia,Semanal,1,1,1107,Efectivo
-63,Consumidor minorista,Las animas,Semanal,5,4,5268,Crédito
-64,Tienda Pequeña,Niebla,Mensual,68,5,58455,Efectivo
-65,Tienda Pequeña,Los molinos,Quincenal,92,25,83955,Crédito
-66,Minimarket,Niebla,Quincenal,374,99,340593,Crédito
-67,Consumidor minorista,Las animas,Semanal,1,4,1908,Tarjeta
-68,Panadería,Valdivia,Quincenal,439,103,396261,Tarjeta
-69,Minimarket,Valdivia,Semanal,298,86,273282,Crédito
-70,Consumidor minorista,Niebla,Quincenal,7,4,6948,Efectivo
-71,Restaurante,Las animas,Semanal,399,176,382152,Tarjeta
-72,Tienda Pequeña,Corral,Mensual,56,43,58521,Tarjeta
-73,Consumidor minorista,Corral,Semanal,8,3,7521,Tarjeta
-74,Restaurante,Las animas,Semanal,295,186,297462,Crédito
-75,Tienda Pequeña,Corral,Semanal,77,48,77496,Efectivo
-76,Restaurante,Valdivia,Semanal,315,57,279819,Tarjeta
-77,Restaurante,Corral,Mensual,110,68,110556,Efectivo
-78,Restaurante,Valdivia,Quincenal,453,173,426711,Tarjeta
-79,Consumidor minorista,Valdivia,Mensual,10,3,9201,Efectivo
-80,Tienda Pequeña,Niebla,Mensual,76,33,72651,Efectivo
-81,Restaurante,Niebla,Mensual,64,135,89805,Crédito
-82,Restaurante,Corral,Semanal,360,159,344853,Crédito
-83,Restaurante,Valdivia,Semanal,297,22,255354,Crédito
-84,Restaurante,Corral,Mensual,187,155,198465,Tarjeta
-85,Tienda Pequeña,Valdivia,Semanal,44,44,48708,Efectivo
-86,Tienda Pequeña,Los molinos,Semanal,68,7,58989,Efectivo
-87,Restaurante,Corral,Semanal,59,174,96018,Crédito
-88,Restaurante,Las animas,Quincenal,289,53,256911,Tarjeta
-89,Consumidor minorista,Valdivia,Semanal,3,5,3855,Crédito
-90,Consumidor minorista,Corral,Mensual,9,5,8895,Crédito
-91,Tienda Pequeña,Corral,Quincenal,84,47,83109,Crédito
-92,Panadería,Corral,Semanal,434,58,380046,Tarjeta
-93,Restaurante,Corral,Quincenal,402,147,376929,Efectivo
-94,Restaurante,Valdivia,Mensual,313,169,308043,Efectivo
-95,Tienda Pequeña,Niebla,Semanal,24,46,32442,Efectivo
-96,Consumidor minorista,Corral,Mensual,9,1,7827,Tarjeta
-97,Consumidor minorista,Niebla,Semanal,10,1,8667,Crédito
-98,Restaurante,Las animas,Semanal,323,111,300957,Tarjeta
-99,Panadería,Niebla,Semanal,427,37,368559,Efectivo
-100,Consumidor minorista,Valdivia,Semanal,5,4,5268,Crédito
-101,Tienda Pequeña,Los molinos,Quincenal,12,45,22095,Crédito
-102,Panadería,Valdivia,Semanal,365,120,338640,Crédito
-103,Tienda Pequeña,Los molinos,Semanal,11,50,22590,Efectivo
-104,Restaurante,Valdivia,Quincenal,411,146,384222,Crédito
-105,Minimarket,Valdivia,Semanal,464,131,424737,Crédito
-106,Panadería,Valdivia,Quincenal,109,163,135081,Crédito
-107,Restaurante,Niebla,Mensual,106,178,136566,Tarjeta
-108,Consumidor minorista,Valdivia,Quincenal,8,1,6987,Tarjeta
-109,Minimarket,Corral,Quincenal,330,24,283608,Crédito
-110,Panadería,Los molinos,Mensual,120,121,133107,Crédito
-111,Consumidor minorista,Niebla,Semanal,2,3,2481,Tarjeta
-112,Minimarket,Niebla,Mensual,227,166,235002,Efectivo
-113,Restaurante,Las animas,Quincenal,275,98,257166,Tarjeta
-114,Panadería,Los molinos,Semanal,131,87,133269,Crédito
-115,Consumidor minorista,Los molinos,Semanal,8,5,8055,Efectivo
-116,Panadería,Niebla,Mensual,489,191,461757,Tarjeta
-117,Minimarket,Valdivia,Quincenal,485,140,444780,Efectivo
-118,Minimarket,Los molinos,Semanal,385,51,337017,Crédito
-119,Restaurante,Corral,Mensual,55,150,86250,Tarjeta
-120,Consumidor minorista,Niebla,Mensual,10,4,9468,Crédito
-121,Consumidor minorista,Corral,Semanal,1,2,1374,Efectivo
-122,Consumidor minorista,Niebla,Semanal,3,5,3855,Efectivo
-123,Panadería,Los molinos,Semanal,54,38,55506,Efectivo
-124,Tienda Pequeña,Las animas,Mensual,25,42,32214,Crédito
-125,Tienda Pequeña,Valdivia,Quincenal,52,19,48753,Tarjeta
-126,Panadería,Valdivia,Quincenal,319,45,279975,Crédito
-127,Tienda Pequeña,Niebla,Quincenal,39,12,35964,Efectivo
-128,Minimarket,Los molinos,Semanal,338,84,306348,Tarjeta
-129,Consumidor minorista,Valdivia,Semanal,8,5,8055,Crédito
-130,Minimarket,Niebla,Quincenal,278,124,266628,Crédito
-131,Panadería,Niebla,Semanal,277,74,252438,Crédito
-132,Panadería,Corral,Quincenal,432,180,410940,Crédito
-133,Consumidor minorista,Corral,Semanal,2,1,1947,Tarjeta
-134,Panadería,Niebla,Semanal,364,116,336732,Tarjeta
-135,Restaurante,Corral,Mensual,131,84,132468,Crédito
-136,Minimarket,Corral,Quincenal,104,193,138891,Tarjeta
-137,Panadería,Las animas,Quincenal,160,183,183261,Crédito
-138,Consumidor minorista,Los molinos,Semanal,5,2,4734,Crédito
-139,Tienda Pequeña,Niebla,Quincenal,21,14,21378,Efectivo
-140,Consumidor minorista,Los molinos,Mensual,5,2,4734,Efectivo
-141,Restaurante,Valdivia,Semanal,70,74,78558,Crédito
-142,Tienda Pequeña,Corral,Quincenal,86,27,79449,Crédito
-143,Minimarket,Niebla,Quincenal,123,135,139365,Efectivo
-144,Restaurante,Los molinos,Semanal,455,42,393414,Efectivo
-145,Tienda Pequeña,Corral,Semanal,66,34,64518,Efectivo
-146,Consumidor minorista,Las animas,Semanal,10,3,9201,Crédito
-147,Restaurante,Valdivia,Mensual,62,179,99873,Tarjeta
-148,Minimarket,Valdivia,Mensual,149,167,169749,Efectivo
-149,Tienda Pequeña,Corral,Quincenal,94,12,82164,Tarjeta
-150,Consumidor minorista,Los molinos,Quincenal,2,5,3015,Efectivo
-151,Minimarket,Valdivia,Mensual,362,196,356412,Crédito
-152,Minimarket,Niebla,Mensual,470,171,440457,Efectivo
-153,Panadería,Las animas,Semanal,389,199,379893,Tarjeta
-154,Panadería,Los molinos,Quincenal,407,64,358968,Efectivo
-155,Tienda Pequeña,Las animas,Semanal,23,33,28131,Tarjeta
-156,Minimarket,Los molinos,Mensual,494,164,458748,Efectivo
-157,Consumidor minorista,Niebla,Mensual,8,3,7521,Tarjeta
-158,Consumidor minorista,Corral,Mensual,6,1,5307,Efectivo
-159,Tienda Pequeña,Los molinos,Semanal,23,48,32136,Efectivo
-160,Minimarket,Valdivia,Quincenal,435,80,386760,Crédito
-161,Panadería,Los molinos,Mensual,478,139,438633,Crédito
-162,Restaurante,Valdivia,Mensual,309,174,306018,Efectivo
-163,Tienda Pequeña,Valdivia,Quincenal,84,16,74832,Efectivo
-164,Tienda Pequeña,Los molinos,Quincenal,53,32,53064,Tarjeta
-165,Consumidor minorista,Los molinos,Semanal,5,1,4467,Efectivo
-166,Consumidor minorista,Corral,Mensual,4,3,4161,Efectivo
-167,Tienda Pequeña,Valdivia,Semanal,49,35,50505,Crédito
-168,Consumidor minorista,Corral,Mensual,3,1,2787,Tarjeta
-169,Tienda Pequeña,Valdivia,Quincenal,100,46,96282,Crédito
-170,Restaurante,Las animas,Quincenal,134,159,155013,Tarjeta
-171,Consumidor minorista,Niebla,Mensual,5,5,5535,Efectivo
-172,Restaurante,Niebla,Mensual,273,193,280851,Efectivo
-173,Minimarket,Valdivia,Quincenal,80,120,99240,Efectivo
-174,Restaurante,Las animas,Mensual,394,61,347247,Crédito
-175,Minimarket,Niebla,Semanal,405,94,365298,Tarjeta
-176,Panadería,Corral,Mensual,294,151,287277,Efectivo
-177,Tienda Pequeña,Corral,Semanal,42,15,39285,Tarjeta
-178,Tienda Pequeña,Niebla,Mensual,34,24,34968,Efectivo
-179,Panadería,Valdivia,Quincenal,444,134,408738,Efectivo
-180,Tienda Pequeña,Valdivia,Quincenal,98,41,93267,Tarjeta
-181,Restaurante,Las animas,Quincenal,142,171,164937,Crédito
-182,Panadería,Valdivia,Mensual,442,194,423078,Efectivo
-183,Restaurante,Las animas,Mensual,60,138,87246,Tarjeta
-184,Tienda Pequeña,Niebla,Semanal,10,42,19614,Efectivo
-185,Consumidor minorista,Los molinos,Quincenal,6,1,5307,Crédito
-186,Restaurante,Valdivia,Quincenal,500,74,439758,Efectivo
-187,Consumidor minorista,Los molinos,Semanal,7,2,6414,Crédito
-188,Panadería,Las animas,Quincenal,110,21,98007,Tarjeta
-189,Minimarket,Los molinos,Quincenal,289,141,280407,Efectivo
-190,Panadería,Los molinos,Mensual,178,149,189303,Tarjeta
-191,Restaurante,Los molinos,Semanal,344,69,307383,Crédito
-192,Minimarket,Valdivia,Mensual,78,90,89550,Crédito
-193,Consumidor minorista,Las animas,Semanal,9,1,7827,Tarjeta
-194,Panadería,Las animas,Semanal,135,64,130488,Crédito
-195,Minimarket,Valdivia,Quincenal,478,105,429555,Crédito
-196,Restaurante,Las animas,Mensual,405,66,357822,Tarjeta
-197,Panadería,Los molinos,Semanal,285,59,255153,Crédito
-198,Panadería,Corral,Semanal,70,27,66009,Tarjeta
-199,Restaurante,Valdivia,Quincenal,356,29,306783,Crédito
-200,Consumidor minorista,Los molinos,Mensual,7,2,6414,Crédito
-201,Minimarket,Las animas,Semanal,167,67,158169,Crédito
-202,Minimarket,Las animas,Quincenal,195,58,179286,Efectivo
-203,Panadería,Valdivia,Semanal,287,137,277659,Crédito
-204,Minimarket,Los molinos,Semanal,189,146,197742,Crédito
-205,Tienda Pequeña,Las animas,Semanal,60,38,60546,Crédito
-206,Tienda Pequeña,Corral,Mensual,13,8,13056,Efectivo
-207,Minimarket,Los molinos,Mensual,446,109,403743,Tarjeta
-208,Minimarket,Los molinos,Semanal,93,60,94140,Efectivo
-209,Restaurante,Las animas,Quincenal,419,171,397617,Tarjeta
-210,Restaurante,Las animas,Quincenal,249,26,216102,Efectivo
-211,Tienda Pequeña,Las animas,Mensual,21,32,26184,Crédito
-212,Panadería,Valdivia,Semanal,80,96,92832,Tarjeta
-213,Panadería,Valdivia,Semanal,324,109,301263,Crédito
-214,Minimarket,Corral,Mensual,474,34,407238,Tarjeta
-215,Panadería,Las animas,Quincenal,472,185,445875,Crédito
-216,Tienda Pequeña,Corral,Mensual,28,33,32331,Efectivo
-217,Tienda Pequeña,Las animas,Mensual,45,30,45810,Efectivo
-218,Panadería,Niebla,Semanal,126,84,128268,Efectivo
-219,Restaurante,Corral,Semanal,334,104,308328,Tarjeta
-220,Restaurante,Corral,Mensual,240,41,212547,Efectivo
-221,Tienda Pequeña,Las animas,Quincenal,30,38,35346,Tarjeta
-222,Tienda Pequeña,Niebla,Mensual,32,12,30084,Tarjeta
-223,Minimarket,Los molinos,Semanal,333,61,296007,Crédito
-224,Consumidor minorista,Valdivia,Mensual,2,3,2481,Efectivo
-225,Tienda Pequeña,Los molinos,Mensual,34,12,31764,Efectivo
-226,Minimarket,Valdivia,Mensual,396,168,377496,Crédito
-227,Consumidor minorista,Corral,Quincenal,3,4,3588,Crédito
-228,Consumidor minorista,Niebla,Mensual,2,5,3015,Efectivo
-229,Minimarket,Las animas,Mensual,360,54,316818,Tarjeta
-230,Consumidor minorista,Valdivia,Mensual,1,1,1107,Efectivo
-231,Panadería,Las animas,Mensual,275,59,246753,Efectivo
-232,Minimarket,Los molinos,Quincenal,415,188,398796,Crédito
-233,Minimarket,Niebla,Mensual,418,194,402918,Efectivo
-234,Tienda Pequeña,Valdivia,Quincenal,62,17,56619,Efectivo
-235,Minimarket,Valdivia,Quincenal,243,82,226014,Efectivo
-236,Minimarket,Valdivia,Semanal,354,143,335541,Tarjeta
-237,Restaurante,Los molinos,Quincenal,489,153,451611,Efectivo
-238,Consumidor minorista,Corral,Mensual,6,3,5841,Crédito
-239,Tienda Pequeña,Los molinos,Quincenal,87,13,76551,Efectivo
-240,Consumidor minorista,Valdivia,Quincenal,4,2,3894,Tarjeta
-241,Restaurante,Corral,Quincenal,72,30,68490,Crédito
-242,Tienda Pequeña,Las animas,Quincenal,37,39,41493,Efectivo
-243,Restaurante,Niebla,Mensual,346,143,328821,Crédito
-244,Minimarket,Niebla,Mensual,69,139,95073,Efectivo
-245,Tienda Pequeña,Los molinos,Semanal,31,38,36186,Efectivo
-246,Minimarket,Los molinos,Mensual,275,117,262239,Efectivo
-247,Tienda Pequeña,Niebla,Quincenal,83,11,72657,Efectivo
-248,Panadería,Corral,Semanal,147,90,147510,Crédito
-249,Panadería,Niebla,Mensual,416,86,372402,Crédito
-250,Tienda Pequeña,Niebla,Mensual,89,42,85974,Crédito
-251,Restaurante,Las animas,Semanal,400,153,376851,Efectivo
-252,Panadería,Corral,Mensual,116,96,123072,Efectivo
-253,Minimarket,Las animas,Mensual,198,64,183408,Crédito
-254,Panadería,Los molinos,Semanal,269,57,241179,Tarjeta
-255,Minimarket,Valdivia,Semanal,229,146,231342,Tarjeta
-256,Restaurante,Los molinos,Mensual,465,142,428514,Crédito
-257,Minimarket,Los molinos,Mensual,102,111,115317,Crédito
-258,Tienda Pequeña,Niebla,Quincenal,99,5,84495,Tarjeta
-259,Consumidor minorista,Los molinos,Semanal,2,1,1947,Efectivo
-260,Restaurante,Valdivia,Mensual,428,71,378477,Crédito
-261,Tienda Pequeña,Las animas,Quincenal,83,49,82803,Crédito
-262,Panadería,Niebla,Quincenal,221,162,228894,Crédito
-263,Consumidor minorista,Corral,Quincenal,4,2,3894,Efectivo
-264,Restaurante,Niebla,Mensual,392,157,371199,Efectivo
-265,Tienda Pequeña,Valdivia,Semanal,58,31,56997,Efectivo
-266,Restaurante,Corral,Semanal,459,145,424275,Efectivo
-267,Consumidor minorista,Valdivia,Semanal,8,4,7788,Tarjeta
-268,Consumidor minorista,Niebla,Mensual,9,2,8094,Crédito
-269,Tienda Pequeña,Niebla,Quincenal,14,24,18168,Crédito
-270,Panadería,Valdivia,Semanal,106,153,129891,Crédito
-271,Consumidor minorista,Las animas,Mensual,3,5,3855,Tarjeta
-272,Tienda Pequeña,Valdivia,Semanal,48,50,53670,Crédito
-273,Tienda Pequeña,Los molinos,Semanal,58,45,60735,Efectivo
-274,Restaurante,Corral,Mensual,376,116,346812,Efectivo
-275,Minimarket,Niebla,Mensual,248,72,227544,Efectivo
-276,Consumidor minorista,Valdivia,Semanal,7,4,6948,Crédito
-277,Minimarket,Los molinos,Semanal,336,100,308940,Tarjeta
-278,Consumidor minorista,Valdivia,Mensual,2,4,2748,Crédito
-279,Tienda Pequeña,Las animas,Semanal,30,5,26535,Efectivo
-280,Panadería,Las animas,Mensual,175,187,196929,Efectivo
-281,Panadería,Los molinos,Semanal,159,31,141837,Tarjeta
-282,Minimarket,Niebla,Semanal,198,33,175131,Tarjeta
-283,Restaurante,Los molinos,Quincenal,476,68,417996,Tarjeta
-284,Panadería,Los molinos,Mensual,337,109,312183,Tarjeta
-285,Tienda Pequeña,Valdivia,Mensual,18,34,24198,Efectivo
-286,Panadería,Las animas,Mensual,58,20,54060,Efectivo
-287,Consumidor minorista,Los molinos,Quincenal,3,2,3054,Crédito
-288,Restaurante,Valdivia,Quincenal,175,141,184647,Tarjeta
-289,Minimarket,Niebla,Quincenal,323,22,277194,Tarjeta
-290,Minimarket,Los molinos,Mensual,415,147,387849,Efectivo
-291,Restaurante,Corral,Quincenal,468,34,402198,Tarjeta
-292,Tienda Pequeña,Las animas,Mensual,26,20,27180,Crédito
-293,Minimarket,Los molinos,Quincenal,473,114,427758,Efectivo
-294,Tienda Pequeña,Corral,Semanal,45,9,40203,Tarjeta
-295,Panadería,Corral,Quincenal,357,25,306555,Efectivo
-296,Restaurante,Corral,Semanal,224,171,233817,Crédito
-297,Consumidor minorista,Valdivia,Semanal,10,5,9735,Tarjeta
-298,Consumidor minorista,Valdivia,Mensual,7,3,6681,Tarjeta
-299,Tienda Pequeña,Las animas,Quincenal,39,31,41037,Efectivo
-300,Restaurante,Valdivia,Quincenal,256,100,241740,Efectivo
+1,Minimarket,Niebla,Quincenal,367,143,346461,Crédito
+2,Consumidor minorista,Niebla,Quincenal,4,5,4695,Crédito
+3,Restaurante,Valdivia,Semanal,102,184,134808,Crédito
+4,Tienda Pequeña,Los molinos,Mensual,40,41,44547,Efectivo
+5,Tienda Pequeña,Corral,Mensual,80,34,76278,Tarjeta
+6,Minimarket,Niebla,Mensual,140,136,153912,Crédito
+7,Restaurante,Los molinos,Mensual,322,145,309195,Efectivo
+8,Consumidor minorista,Valdivia,Mensual,9,3,8361,Crédito
+9,Restaurante,Corral,Quincenal,120,150,140850,Crédito
+10,Tienda Pequeña,Valdivia,Mensual,92,48,90096,Efectivo
+11,Restaurante,Valdivia,Mensual,132,76,131172,Efectivo
+12,Restaurante,Valdivia,Semanal,254,197,265959,Tarjeta
+13,Consumidor minorista,Corral,Quincenal,7,1,6147,Crédito
+14,Minimarket,Corral,Semanal,110,52,106284,Efectivo
+15,Consumidor minorista,Niebla,Quincenal,1,3,1641,Crédito
+16,Consumidor minorista,Niebla,Quincenal,3,1,2787,Crédito
+17,Tienda Pequeña,Los molinos,Mensual,78,40,76200,Crédito
+18,Restaurante,Corral,Mensual,448,92,400884,Crédito
+19,Tienda Pequeña,Valdivia,Semanal,66,25,62115,Tarjeta
+20,Minimarket,Niebla,Quincenal,229,197,244959,Efectivo
+21,Restaurante,Corral,Mensual,391,24,334848,Efectivo
+22,Tienda Pequeña,Los molinos,Quincenal,40,25,40275,Crédito
+23,Minimarket,Niebla,Mensual,222,105,214515,Tarjeta
+24,Minimarket,Corral,Semanal,244,125,238335,Crédito
+25,Restaurante,Valdivia,Mensual,355,101,325167,Crédito
+26,Consumidor minorista,Las animas,Quincenal,6,1,5307,Efectivo
+27,Tienda Pequeña,Los molinos,Semanal,20,39,27213,Tarjeta
+28,Panadería,Corral,Mensual,427,20,364020,Crédito
+29,Consumidor minorista,Valdivia,Quincenal,3,5,3855,Crédito
+30,Consumidor minorista,Valdivia,Quincenal,6,5,6375,Efectivo
+31,Consumidor minorista,Las animas,Mensual,4,4,4428,Tarjeta
+32,Minimarket,Valdivia,Quincenal,93,138,114966,Crédito
+33,Tienda Pequeña,Los molinos,Quincenal,25,44,32748,Efectivo
+34,Consumidor minorista,Las animas,Semanal,7,4,6948,Efectivo
+35,Restaurante,Las animas,Semanal,324,85,294855,Tarjeta
+36,Consumidor minorista,Niebla,Quincenal,8,2,7254,Efectivo
+37,Panadería,Corral,Mensual,270,146,265782,Efectivo
+38,Restaurante,Corral,Semanal,449,147,416409,Crédito
+39,Consumidor minorista,Los molinos,Semanal,7,2,6414,Efectivo
+40,Panadería,Corral,Quincenal,223,144,225768,Efectivo
+41,Minimarket,Las animas,Semanal,499,156,460812,Crédito
+42,Panadería,Las animas,Mensual,320,86,291762,Tarjeta
+43,Minimarket,Los molinos,Mensual,495,140,453180,Crédito
+44,Minimarket,Valdivia,Mensual,441,94,395538,Tarjeta
+45,Restaurante,Valdivia,Quincenal,492,68,431436,Tarjeta
+46,Minimarket,Los molinos,Semanal,404,189,389823,Crédito
+47,Minimarket,Los molinos,Quincenal,52,21,49287,Tarjeta
+48,Minimarket,Los molinos,Quincenal,138,36,125532,Tarjeta
+49,Tienda Pequeña,Niebla,Mensual,44,7,38829,Efectivo
+50,Minimarket,Valdivia,Mensual,219,82,205854,Efectivo
+51,Consumidor minorista,Los molinos,Semanal,1,1,1107,Efectivo
+52,Tienda Pequeña,Las animas,Semanal,78,49,78603,Tarjeta
+53,Panadería,Corral,Semanal,65,160,97320,Tarjeta
+54,Consumidor minorista,Corral,Semanal,1,4,1908,Crédito
+55,Panadería,Valdivia,Quincenal,442,166,415602,Efectivo
+56,Minimarket,Valdivia,Semanal,477,196,453012,Tarjeta
+57,Restaurante,Los molinos,Semanal,112,66,111702,Crédito
+58,Consumidor minorista,Los molinos,Semanal,5,2,4734,Efectivo
+59,Panadería,Las animas,Semanal,443,67,390009,Tarjeta
+60,Consumidor minorista,Valdivia,Semanal,7,4,6948,Crédito
+61,Panadería,Valdivia,Mensual,180,135,187245,Tarjeta
+62,Tienda Pequeña,Las animas,Quincenal,72,30,68490,Efectivo
+63,Consumidor minorista,Niebla,Mensual,10,1,8667,Efectivo
+64,Restaurante,Valdivia,Quincenal,205,114,202638,Efectivo
+65,Restaurante,Corral,Mensual,424,39,366573,Crédito
+66,Consumidor minorista,Las animas,Mensual,3,2,3054,Crédito
+67,Minimarket,Niebla,Semanal,120,97,126699,Tarjeta
+68,Tienda Pequeña,Corral,Mensual,82,31,77157,Crédito
+69,Tienda Pequeña,Los molinos,Quincenal,100,41,94947,Tarjeta
+70,Restaurante,Valdivia,Quincenal,201,198,221706,Tarjeta
+71,Minimarket,Niebla,Quincenal,493,59,429873,Efectivo
+72,Panadería,Niebla,Mensual,396,184,381768,Efectivo
+73,Consumidor minorista,Niebla,Mensual,2,3,2481,Crédito
+74,Minimarket,Los molinos,Quincenal,50,26,48942,Crédito
+75,Panadería,Las animas,Semanal,83,141,107367,Crédito
+76,Consumidor minorista,Niebla,Quincenal,9,4,8628,Crédito
+77,Panadería,Las animas,Semanal,128,196,159852,Efectivo
+78,Panadería,Corral,Quincenal,87,188,123276,Tarjeta
+79,Minimarket,Valdivia,Semanal,138,78,136746,Crédito
+80,Consumidor minorista,Las animas,Quincenal,3,3,3321,Crédito
+81,Minimarket,Las animas,Semanal,152,128,161856,Tarjeta
+82,Minimarket,Niebla,Quincenal,271,197,280239,Crédito
+83,Restaurante,Las animas,Mensual,363,59,320673,Tarjeta
+84,Panadería,Niebla,Quincenal,372,133,347991,Tarjeta
+85,Restaurante,Las animas,Mensual,198,151,206637,Crédito
+86,Minimarket,Valdivia,Semanal,319,101,294927,Crédito
+87,Consumidor minorista,Valdivia,Semanal,7,3,6681,Efectivo
+88,Tienda Pequeña,Las animas,Quincenal,79,16,70632,Crédito
+89,Panadería,Valdivia,Semanal,162,27,143289,Crédito
+90,Minimarket,Las animas,Mensual,456,199,436173,Crédito
+91,Minimarket,Niebla,Semanal,350,134,329778,Crédito
+92,Minimarket,Las animas,Quincenal,331,56,292992,Efectivo
+93,Panadería,Las animas,Quincenal,290,199,296733,Tarjeta
+94,Tienda Pequeña,Las animas,Mensual,100,22,89874,Tarjeta
+95,Tienda Pequeña,Las animas,Mensual,54,9,47763,Crédito
+96,Minimarket,Los molinos,Quincenal,238,24,206328,Tarjeta
+97,Tienda Pequeña,Niebla,Mensual,79,37,76239,Efectivo
+98,Panadería,Valdivia,Semanal,163,59,152673,Efectivo
+99,Panadería,Las animas,Mensual,351,170,340230,Efectivo
+100,Panadería,Las animas,Semanal,413,44,358668,Crédito
+101,Panadería,Valdivia,Mensual,78,199,118653,Efectivo
+102,Consumidor minorista,Los molinos,Quincenal,9,5,8895,Crédito
+103,Minimarket,Corral,Semanal,220,179,232593,Tarjeta
+104,Minimarket,Corral,Mensual,99,42,94374,Tarjeta
+105,Restaurante,Niebla,Quincenal,134,185,161955,Crédito
+106,Restaurante,Las animas,Semanal,274,144,268608,Efectivo
+107,Restaurante,Niebla,Semanal,156,186,180702,Efectivo
+108,Restaurante,Los molinos,Quincenal,172,171,190137,Tarjeta
+109,Consumidor minorista,Los molinos,Semanal,2,1,1947,Crédito
+110,Tienda Pequeña,Los molinos,Quincenal,63,14,56658,Crédito
+111,Tienda Pequeña,Corral,Mensual,26,35,31185,Tarjeta
+112,Consumidor minorista,Niebla,Semanal,6,2,5574,Crédito
+113,Restaurante,Niebla,Semanal,459,167,430149,Crédito
+114,Restaurante,Corral,Mensual,173,112,175224,Tarjeta
+115,Tienda Pequeña,Los molinos,Semanal,92,16,81552,Tarjeta
+116,Restaurante,Corral,Mensual,296,131,283617,Crédito
+117,Restaurante,Las animas,Semanal,196,129,199083,Efectivo
+118,Tienda Pequeña,Las animas,Mensual,95,19,84873,Efectivo
+119,Restaurante,Los molinos,Semanal,438,131,402897,Crédito
+120,Minimarket,Valdivia,Semanal,240,198,254466,Efectivo
+121,Panadería,Los molinos,Mensual,122,200,155880,Efectivo
+122,Panadería,Corral,Semanal,344,142,326874,Efectivo
+123,Minimarket,Niebla,Semanal,151,188,177036,Crédito
+124,Restaurante,Corral,Semanal,61,39,61653,Tarjeta
+125,Panadería,Corral,Semanal,57,34,56958,Crédito
+126,Panadería,Niebla,Semanal,483,144,444168,Crédito
+127,Restaurante,Las animas,Mensual,107,86,112842,Efectivo
+128,Panadería,Valdivia,Quincenal,402,43,349161,Efectivo
+129,Consumidor minorista,Valdivia,Mensual,4,5,4695,Efectivo
+130,Tienda Pequeña,Niebla,Quincenal,73,45,73335,Crédito
+131,Minimarket,Las animas,Semanal,270,126,260442,Tarjeta
+132,Tienda Pequeña,Niebla,Mensual,93,13,81591,Crédito
+133,Restaurante,Los molinos,Semanal,79,185,115755,Efectivo
+134,Tienda Pequeña,Corral,Semanal,10,24,14808,Crédito
+135,Tienda Pequeña,Niebla,Semanal,31,27,33249,Efectivo
+136,Tienda Pequeña,Valdivia,Semanal,33,16,31992,Efectivo
+137,Tienda Pequeña,Valdivia,Quincenal,95,50,93150,Tarjeta
+138,Tienda Pequeña,Los molinos,Quincenal,44,22,42834,Efectivo
+139,Minimarket,Los molinos,Semanal,61,51,64857,Tarjeta
+140,Panadería,Las animas,Quincenal,134,194,164358,Efectivo
+141,Consumidor minorista,Niebla,Semanal,1,5,2175,Crédito
+142,Panadería,Corral,Mensual,419,69,370383,Tarjeta
+143,Restaurante,Los molinos,Mensual,50,177,89259,Crédito
+144,Tienda Pequeña,Corral,Quincenal,81,11,70977,Crédito
+145,Panadería,Valdivia,Quincenal,412,127,379989,Tarjeta
+146,Restaurante,Corral,Quincenal,348,196,344652,Efectivo
+147,Restaurante,Corral,Quincenal,316,109,294543,Tarjeta
+148,Minimarket,Los molinos,Semanal,78,94,90618,Tarjeta
+149,Tienda Pequeña,Valdivia,Semanal,36,26,37182,Efectivo
+150,Tienda Pequeña,Valdivia,Quincenal,46,23,44781,Efectivo
+151,Tienda Pequeña,Las animas,Semanal,43,19,41193,Tarjeta
+152,Restaurante,Niebla,Quincenal,451,136,415152,Efectivo
+153,Consumidor minorista,Niebla,Mensual,3,2,3054,Efectivo
+154,Restaurante,Niebla,Mensual,169,173,188151,Tarjeta
+155,Tienda Pequeña,Niebla,Quincenal,71,40,70320,Tarjeta
+156,Tienda Pequeña,Corral,Semanal,81,18,72846,Efectivo
+157,Restaurante,Corral,Quincenal,51,31,51117,Tarjeta
+158,Restaurante,Corral,Semanal,255,170,259590,Efectivo
+159,Restaurante,Las animas,Semanal,438,38,378066,Efectivo
+160,Consumidor minorista,Los molinos,Quincenal,1,1,1107,Crédito
+161,Consumidor minorista,Valdivia,Semanal,8,3,7521,Crédito
+162,Minimarket,Corral,Semanal,448,116,407292,Crédito
+163,Minimarket,Los molinos,Mensual,427,54,373098,Crédito
+164,Restaurante,Los molinos,Semanal,455,135,418245,Efectivo
+165,Restaurante,Corral,Quincenal,449,26,384102,Crédito
+166,Tienda Pequeña,Corral,Mensual,77,21,70287,Tarjeta
+167,Tienda Pequeña,Las animas,Mensual,79,34,75438,Tarjeta
+168,Panadería,Las animas,Mensual,148,110,153690,Tarjeta
+169,Panadería,Valdivia,Quincenal,274,140,267540,Efectivo
+170,Restaurante,Valdivia,Semanal,305,70,274890,Crédito
+171,Tienda Pequeña,Valdivia,Semanal,88,36,83532,Crédito
+172,Tienda Pequeña,Las animas,Semanal,32,17,31419,Tarjeta
+173,Restaurante,Los molinos,Semanal,217,48,195096,Tarjeta
+174,Tienda Pequeña,Las animas,Mensual,57,10,50550,Crédito
+175,Consumidor minorista,Niebla,Quincenal,3,2,3054,Tarjeta
+176,Restaurante,Los molinos,Semanal,395,61,348087,Efectivo
+177,Panadería,Corral,Mensual,185,119,187173,Efectivo
+178,Minimarket,Niebla,Mensual,338,118,315426,Tarjeta
+179,Panadería,Los molinos,Semanal,498,82,440214,Tarjeta
+180,Minimarket,Corral,Mensual,491,181,460767,Crédito
+181,Restaurante,Valdivia,Quincenal,393,142,368034,Efectivo
+182,Tienda Pequeña,Corral,Semanal,75,35,72345,Crédito
+183,Consumidor minorista,Corral,Mensual,2,4,2748,Crédito
+184,Minimarket,Valdivia,Semanal,202,116,200652,Efectivo
+185,Tienda Pequeña,Corral,Mensual,12,30,18090,Tarjeta
+186,Panadería,Los molinos,Semanal,313,106,291222,Efectivo
+187,Restaurante,Valdivia,Mensual,424,170,401550,Tarjeta
+188,Restaurante,Las animas,Quincenal,309,94,284658,Tarjeta
+189,Minimarket,Niebla,Mensual,180,87,174429,Efectivo
+190,Panadería,Valdivia,Quincenal,434,174,411018,Crédito
+191,Minimarket,Corral,Quincenal,238,197,252519,Tarjeta
+192,Consumidor minorista,Las animas,Mensual,6,2,5574,Efectivo
+193,Restaurante,Corral,Mensual,408,116,373692,Crédito
+194,Restaurante,Corral,Semanal,209,163,219081,Crédito
+195,Restaurante,Los molinos,Quincenal,256,157,256959,Efectivo
+196,Minimarket,Niebla,Mensual,337,20,288420,Crédito
+197,Panadería,Las animas,Quincenal,275,69,249423,Crédito
+198,Consumidor minorista,Las animas,Semanal,5,4,5268,Crédito
+199,Restaurante,Niebla,Quincenal,349,93,317991,Crédito
+200,Tienda Pequeña,Valdivia,Mensual,46,19,43713,Crédito
+201,Minimarket,Valdivia,Semanal,238,121,232227,Efectivo
+202,Restaurante,Las animas,Mensual,314,183,312621,Crédito
+203,Restaurante,Niebla,Semanal,144,162,164214,Crédito
+204,Tienda Pequeña,Valdivia,Mensual,68,10,59790,Efectivo
+205,Minimarket,Las animas,Mensual,410,119,376173,Tarjeta
+206,Consumidor minorista,Los molinos,Semanal,9,2,8094,Crédito
+207,Panadería,Las animas,Mensual,215,94,205698,Efectivo
+208,Restaurante,Valdivia,Semanal,55,134,81978,Crédito
+209,Tienda Pequeña,Los molinos,Quincenal,46,46,50922,Efectivo
+210,Minimarket,Los molinos,Semanal,304,96,280992,Efectivo
+211,Panadería,Niebla,Semanal,97,91,105777,Tarjeta
+212,Tienda Pequeña,Corral,Semanal,20,11,19737,Tarjeta
+213,Consumidor minorista,Valdivia,Mensual,9,3,8361,Crédito
+214,Consumidor minorista,Valdivia,Mensual,4,5,4695,Efectivo
+215,Restaurante,Los molinos,Semanal,322,148,309996,Efectivo
+216,Restaurante,Niebla,Mensual,110,89,116163,Efectivo
+217,Minimarket,Las animas,Quincenal,86,181,120567,Crédito
+218,Panadería,Niebla,Semanal,262,194,271878,Crédito
+219,Panadería,Corral,Mensual,356,188,349236,Tarjeta
+220,Minimarket,Los molinos,Semanal,320,102,296034,Crédito
+221,Restaurante,Valdivia,Semanal,331,81,299667,Crédito
+222,Restaurante,Valdivia,Quincenal,325,192,324264,Efectivo
+223,Consumidor minorista,Los molinos,Semanal,6,4,6108,Efectivo
+224,Tienda Pequeña,Las animas,Mensual,100,26,90942,Tarjeta
+225,Minimarket,Niebla,Mensual,286,71,259197,Crédito
+226,Minimarket,Las animas,Mensual,238,130,234630,Tarjeta
+227,Tienda Pequeña,Los molinos,Quincenal,99,40,93840,Efectivo
+228,Tienda Pequeña,Niebla,Quincenal,32,20,32220,Efectivo
+229,Panadería,Niebla,Quincenal,469,66,411582,Tarjeta
+230,Panadería,Niebla,Mensual,336,104,310008,Efectivo
+231,Restaurante,Valdivia,Mensual,281,91,260337,Efectivo
+232,Restaurante,Valdivia,Semanal,144,103,148461,Crédito
+233,Tienda Pequeña,Las animas,Semanal,72,9,62883,Efectivo
+234,Panadería,Niebla,Mensual,106,156,130692,Crédito
+235,Minimarket,Niebla,Mensual,452,94,404778,Efectivo
+236,Tienda Pequeña,Niebla,Mensual,45,18,42606,Crédito
+237,Minimarket,Los molinos,Semanal,321,79,290733,Efectivo
+238,Consumidor minorista,Los molinos,Mensual,2,2,2214,Crédito
+239,Minimarket,Valdivia,Quincenal,52,27,50889,Tarjeta
+240,Tienda Pequeña,Las animas,Quincenal,86,23,78381,Efectivo
+241,Panadería,Corral,Quincenal,473,173,443511,Efectivo
+242,Restaurante,Los molinos,Semanal,207,118,205386,Crédito
+243,Tienda Pequeña,Corral,Quincenal,13,23,17061,Crédito
+244,Tienda Pequeña,Corral,Quincenal,23,42,30534,Crédito
+245,Minimarket,Corral,Quincenal,228,164,235308,Efectivo
+246,Tienda Pequeña,Valdivia,Semanal,79,12,69564,Tarjeta
+247,Panadería,Niebla,Quincenal,104,159,129813,Efectivo
+248,Restaurante,Corral,Quincenal,232,83,217041,Efectivo
+249,Consumidor minorista,Niebla,Quincenal,8,1,6987,Tarjeta
+250,Restaurante,Los molinos,Mensual,166,67,157329,Efectivo
+251,Restaurante,Los molinos,Quincenal,255,138,251046,Crédito
+252,Consumidor minorista,Corral,Quincenal,10,4,9468,Tarjeta
+253,Restaurante,Valdivia,Semanal,116,97,123339,Crédito
+254,Panadería,Los molinos,Semanal,426,84,380268,Efectivo
+255,Panadería,Valdivia,Semanal,375,93,339831,Efectivo
+256,Consumidor minorista,Valdivia,Quincenal,1,1,1107,Crédito
+257,Panadería,Niebla,Quincenal,110,184,141528,Efectivo
+258,Consumidor minorista,Niebla,Mensual,4,4,4428,Crédito
+259,Panadería,Corral,Quincenal,261,81,240867,Crédito
+260,Panadería,Valdivia,Semanal,409,61,359847,Crédito
+261,Tienda Pequeña,Valdivia,Quincenal,44,30,44970,Efectivo
+262,Minimarket,Los molinos,Mensual,235,27,204609,Tarjeta
+263,Minimarket,Los molinos,Semanal,77,177,111939,Tarjeta
+264,Restaurante,Los molinos,Mensual,50,145,80715,Crédito
+265,Tienda Pequeña,Las animas,Mensual,34,35,37905,Tarjeta
+266,Tienda Pequeña,Las animas,Mensual,36,38,40386,Tarjeta
+267,Tienda Pequeña,Corral,Mensual,41,22,40314,Efectivo
+268,Tienda Pequeña,Valdivia,Semanal,46,33,47451,Tarjeta
+269,Consumidor minorista,Los molinos,Semanal,5,2,4734,Crédito
+270,Consumidor minorista,Valdivia,Mensual,5,2,4734,Tarjeta
+271,Restaurante,Valdivia,Mensual,292,103,272781,Efectivo
+272,Panadería,Los molinos,Semanal,477,113,430851,Tarjeta
+273,Minimarket,Las animas,Semanal,372,162,355734,Tarjeta
+274,Minimarket,Valdivia,Mensual,92,25,83955,Crédito
+275,Panadería,Los molinos,Mensual,372,107,341049,Efectivo
+276,Restaurante,Niebla,Mensual,384,53,336711,Crédito
+277,Minimarket,Las animas,Mensual,131,102,137274,Tarjeta
+278,Restaurante,Niebla,Quincenal,211,95,202605,Crédito
+279,Tienda Pequeña,Valdivia,Mensual,90,17,80139,Efectivo
+280,Consumidor minorista,Corral,Semanal,10,2,8934,Efectivo
+281,Minimarket,Los molinos,Semanal,367,125,341655,Tarjeta
+282,Restaurante,Valdivia,Mensual,323,72,290544,Crédito
+283,Minimarket,Niebla,Semanal,484,125,439935,Crédito
+284,Minimarket,Valdivia,Quincenal,194,82,184854,Efectivo
+285,Minimarket,Valdivia,Semanal,211,24,183648,Efectivo
+286,Minimarket,Los molinos,Quincenal,402,133,373191,Efectivo
+287,Panadería,Niebla,Semanal,336,36,291852,Efectivo
+288,Restaurante,Valdivia,Semanal,453,178,428046,Tarjeta
+289,Consumidor minorista,Corral,Mensual,1,2,1374,Tarjeta
+290,Minimarket,Las animas,Semanal,219,63,200781,Efectivo
+291,Tienda Pequeña,Las animas,Quincenal,10,37,18279,Efectivo
+292,Tienda Pequeña,Valdivia,Semanal,47,15,43485,Tarjeta
+293,Consumidor minorista,Corral,Mensual,7,1,6147,Crédito
+294,Consumidor minorista,Las animas,Quincenal,7,3,6681,Tarjeta
+295,Tienda Pequeña,Corral,Mensual,78,7,67389,Crédito
+296,Tienda Pequeña,Valdivia,Mensual,87,33,81891,Efectivo
+297,Consumidor minorista,Corral,Quincenal,1,4,1908,Efectivo
+298,Consumidor minorista,Los molinos,Mensual,3,5,3855,Crédito
+299,Tienda Pequeña,Valdivia,Mensual,90,26,82542,Crédito
+300,Restaurante,Corral,Semanal,288,164,285708,Tarjeta
