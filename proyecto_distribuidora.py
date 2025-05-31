@@ -11,10 +11,8 @@ import random
 # In[26]:
 
 
-import pandas as pd
-
 # Cargar el archivo CSV con el separador correcto
-df = pd.read_csv("C:/Users/kliza/Downloads/clientes_distribuidora_1.csv", sep=";", encoding="latin1") 
+df = pd.read_csv("C:/Users/kliza/Downloads/proyecto_distribuidora/clientes_distribuidora_1.csv", sep=";", encoding="latin1")
 
 # Mostrar las primeras filas para verificar
 print(df.head())
@@ -25,7 +23,7 @@ print(df.columns)  # Ver los nombres de las columnas correctamente separados
 
 
 # Parámetros para la generación de datos
-num_clientes = 150
+num_clientes = 300
 tipos_cliente = ["Panadería", "Restaurante", "Minimarket", "Tienda Pequeña", "Consumidor minorista"]
 ubicaciones = ["Valdivia", "Las animas", "Los molinos", "Corral", "Niebla"]
 frecuencias_compra = ["Semanal", "Quincenal", "Mensual"]
@@ -192,6 +190,45 @@ plt.show()
 
 # In[ ]:
 
+df_mar_abr = df[df["Mes"].isin(["Marzo", "Abril"])]
+ventas = df_mar_abr.groupby(["Tipo Cliente", "Ubicacion", "Frecuencia Compra"])["Ingreso Total ($)"].sum().reset_index()
+
+ventas["Total General"] = ventas.groupby(["Tipo Cliente", "Ubicacion"])["Ingreso Total ($)"].transform("sum")
+
+ventas["Porcentaje (%)"] = round((ventas["Ingreso Total ($)"] / ventas["Total General"]) * 100, 2)
+
+# Agrupamos también por 'Mes'
+ventas = df[df["Mes"].isin(["Marzo", "Abril"])].groupby(
+    ["Mes", "Tipo Cliente", "Ubicacion", "Frecuencia Compra"]
+)["Ingreso Total ($)"].sum().reset_index()
+
+# Calculamos el total por Mes, Tipo Cliente y Ubicación
+ventas["Total General"] = ventas.groupby(
+    ["Mes", "Tipo Cliente", "Ubicacion"]
+)["Ingreso Total ($)"].transform("sum")
+
+# Calculamos el porcentaje
+ventas["Porcentaje (%)"] = round((ventas["Ingreso Total ($)"] / ventas["Total General"]) * 100, 2)
+
+# Creamos el gráfico usando catplot (para columnas por mes)
+g = sns.catplot(
+    data=ventas,
+    x="Ubicacion",
+    y="Porcentaje (%)",
+    hue="Frecuencia Compra",
+    col="Mes",  # Aquí sí funciona
+    kind="bar",
+    height=6,
+    aspect=1.2
+)
+
+g.set_titles("Mes: {col_name}")
+g.set_xticklabels(rotation=45)
+g.set_axis_labels("Ubicación", "Porcentaje de Ventas (%)")
+
+plt.tight_layout()
+plt.show()
 
 
 
+# %%
